@@ -11,7 +11,7 @@ from the 1st of January, 2020 till 12th December, 2022.
 ## Data Processing
 The data was processed and prepared for analysis (in SQL) using MS-Excel. Irrelevant columns
 were removed, the data was confirmed to be duplicates-free and the dataset was seperated into 
-two Tables (titled CovidDeaths and CovidVaccinations) to ensure disctinction and clarity of 
+two Tables (titled CovidDeaths and CovidVaccinations) to ensure distinction and clarity of 
 purpose while analyzing the data. The two tables were later joined in SQL during analysis. 
 ## Data Analysis and Visualization
 
