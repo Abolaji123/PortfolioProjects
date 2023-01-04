@@ -15,6 +15,6 @@ two Tables (titled CovidDeaths and CovidVaccinations) to ensure distinction and 
 purpose while analyzing the data. The two tables were later joined in SQL during analysis. 
 ## Data Analysis and Visualization
 
-
+[View](https://public.tableau.com/authoring/CovidDashboard_16715310841420/Sheet1#1)
 
 View Dashboard [Here](https://public.tableau.com/app/profile/aderoju.abolaji/viz/CovidDashboard_16715310841420/Dashboard1) 
