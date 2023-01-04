@@ -14,5 +14,6 @@ were removed, the data was confirmed to be duplicates-free and the dataset was s
 two Tables (titled CovidDeaths and CovidVaccinations) to ensure distinction and clarity of 
 purpose while analyzing the data. The two tables were later joined in SQL during analysis. 
 ## Data Analysis and Visualization
+The SQL script written for the analysis can be found [here](https://github.com/Abolaji123/PortfolioProjects/blob/main/CovidPortfolioProjectScript.sql) 
 
 View Dashboard [Here](https://public.tableau.com/app/profile/aderoju.abolaji/viz/CovidDashboard_16715310841420/Dashboard1) 
